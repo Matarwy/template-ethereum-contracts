@@ -4,10 +4,6 @@ artifacts/
 coverage*
 typechain/
 
-.vscode/*
-!.vscode/settings.json.default
-!.vscode/launch.json.default
-!.vscode/extensions.json.default
 
 node_modules/
 .env
@@ -20,3 +16,7 @@ deployments/hardhat
 deployments/localhost
 
 /.dapp
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
